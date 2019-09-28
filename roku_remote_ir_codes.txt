@@ -1,0 +1,21 @@
+volume up   NEC 20DF40BF
+volume down NEC 20DFC03F
+mute        NEC 20DF906F
+powa        NEC 20DF10EF
+back        NEC 20DF20DF
+home        NEC 20DFC23D
+up          NEC 20DF6A95
+down        NEC 20DFEA15
+left        NEC 20DF1AE5
+right       NEC 20DF9A65
+ooook       NEC 20DF5AA5
+reverse     NEC 20DF827D
+gnitemoon   NEC 20DF58A7
+wildcard    NEC 20DF30CF
+rewind      NEC 20DFF20D
+pause       NEC 20DF42BD
+ff          NEC 20DFDA25
+NETFLIX     NEC 20DF32CD
+sling       NEC 20DFA25D
+hbonow      NEC 20DF8A75
+amazone     NEC 20DFE21D
